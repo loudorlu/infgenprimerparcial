@@ -1,2 +1,3 @@
-# infgenprimerparcial
-Repositorio con el primer examen de la materia de Informática General de la carrera de Artes Multimediales de la UNA
+Lucas Sebastián Dorneles Lourido
+Primer Parcial - Informática General
+Artes Multimediales - UNA
