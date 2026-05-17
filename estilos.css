@@ -21,7 +21,7 @@ header {
 }
 footer {
     padding: 2rem;
-    font-size: 0.875rem;
+    font-size: 0.75rem;
 }
 nav ul {
     list-style-type: none;
@@ -51,7 +51,7 @@ h1, h2 {
 }
 blockquote {
     font-style: italic;
-    font-size: 0.75rem;
+    font-size: 0.875rem;
 }
 nav a:link {
     background-color: transparent;
